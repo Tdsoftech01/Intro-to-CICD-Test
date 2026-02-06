@@ -1,3 +1,5 @@
+//trivial edition
+
 name: CI
 
 on: push
